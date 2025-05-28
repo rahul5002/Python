@@ -1,0 +1,1 @@
+print("NAME : NIKUNJ BANSAL\nSAP ID : 500069944\nDATE OF BIRTH : 13 Oct 1999\nADDRESS : UPES Bidholi Campus\nPincode : 248007\nProgramme : AI & ML\nSemester : 2\n")
